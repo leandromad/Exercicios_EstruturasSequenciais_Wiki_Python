@@ -1,0 +1,3 @@
+# Exercicios_EstruturasSequenciais_Wiki_Python
+
+Resoluções de exercícios sobre Estruturas Sequenciais utilizando pyhton
